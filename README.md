@@ -10,10 +10,11 @@ and edit users, articles, news categories and comments.
 - clone project from github
 - composer install
 - npm install
-- npm run dev
+- npm run build
 - make schema in database
 - fill .env file as in .env.example
 - php artisan migrate
+- php artisan storage:link
 - php artisan db:seed (to add admin and fake news data)
 - php artisan key:generate
 - php artisan serve
