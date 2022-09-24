@@ -14,8 +14,8 @@ and edit users, articles, news categories and comments.
 - make schema in database
 - fill .env file as in .env.example
 - php artisan migrate
-- php artisan storage:link
 - php artisan db:seed (to add admin and fake news data)
 - php artisan key:generate
+- php artisan storage:link
 - php artisan serve
 - to access admin use email: admin@email.com and pw: password
